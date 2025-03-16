@@ -3,7 +3,7 @@
 
 ## How it works?
 In my project I used 5 functions: 
-- [2D to 3D conversion](https://github.com/Jjponvv/Perspective-Projection/edit/main/README.md#2d-to-3d-conversion)
+- [2D to 3D conversion](https://github.com/Jjponvv/Perspective-Projection/tree/main?tab=readme-ov-file#2d-to-3d-conversion)
 - [rotate x, y, z](https://github.com/Jjponvv/Perspective-Projection/edit/main/README.md#rotating-x-y-and-z)
 - [drawing](https://github.com/Jjponvv/Perspective-Projection/edit/main/README.md#rotating-x-y-and-z)
 
