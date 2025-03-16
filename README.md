@@ -12,7 +12,7 @@ In my project I used 5 functions:
 For this function I used this formula:
 
 `x / (z * tan(angle / 2))`  
-Where:
+Where:  
 **x** - cordinate (I can use **y** also)  
 **z** - z cordinate  
 **angle** - it's a field of view (**FOV**)
