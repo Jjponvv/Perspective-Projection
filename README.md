@@ -11,7 +11,7 @@ In my project I used 5 functions:
 
 For this function I used this formula:
 
-`x / (z * tan(angle / 2))`
+`x / (z * tan(angle / 2))`  
 Where:
 **x** - cordinate (I can use **y** also)
 **z** - z cordinate
@@ -22,4 +22,4 @@ Where:
 ## rotating (**x**, **y** and **z**)
 
 To rotate shapes in 3D space, I used a **rotation matrix**  
-<img src="img/RotationMatrices.png" alt="matrix example">
+<img src="img/RotationMatrices.png" alt="matrix example" height="100">
