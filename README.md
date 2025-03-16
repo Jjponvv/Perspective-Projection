@@ -13,8 +13,8 @@ For this function I used this formula:
 
 `x / (z * tan(angle / 2))`  
 Where:
-**x** - cordinate (I can use **y** also)
-**z** - z cordinate
+**x** - cordinate (I can use **y** also)  
+**z** - z cordinate  
 **angle** - it's a field of view (**FOV**)
 
 **tan()** function is tangent
